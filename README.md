@@ -35,3 +35,9 @@ Tomo is a friendly command-line tool for deploying Rails apps.
 * [Deploying Rails From Scratch](https://tomo-deploy.com/tutorials/deploying-rails-from-scratch/)
 
 In this tutorial we will use tomo to deploy a sample Rails project to a virtual private server (VPS). 
+
+* [ruby jard](https://rubyjard.org/)
+
+Just Another Ruby Debugger
+
+Ruby Jard provides a rich Terminal UI that visualizes everything your need, navigates your program with pleasure, stops at matter places only, reduces manual and mental efforts.
