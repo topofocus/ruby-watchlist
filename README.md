@@ -19,7 +19,7 @@ Victor is a direct Ruby-to-SVG builder. All method calls are converted directly 
 
 For the best HTML e-mail delivery results, CSS should be inline. This is a huge pain and a simple newsletter becomes un-managable very quickly.
  
-* [phlex}( https://github.com/joeldrapper/phlex )  
+* [phlex]( https://github.com/joeldrapper/phlex )  
 
 A framework for building object-oriented views in Ruby
 
