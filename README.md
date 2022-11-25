@@ -7,7 +7,7 @@ collection of projects to remember
 High-level image processing wrapper for libvips and ImageMagick/GraphicsMagick 
 
 
-* {Victor](https://github.com/DannyBen/victor) 
+* [Victor](https://github.com/DannyBen/victor) 
 
 Victor is a direct Ruby-to-SVG builder. All method calls are converted directly to SVG elements.
 
