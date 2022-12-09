@@ -49,5 +49,8 @@ Just Another Ruby Debugger
 
 Ruby Jard provides a rich Terminal UI that visualizes everything your need, navigates your program with pleasure, stops at matter places only, reduces manual and mental efforts.
 
-* [Ruby Money](https://github.com/RubyMoney)
+* [Ruby Money](https://github.com/RubyMoney)   
 A Ruby Library for dealing with money and currency conversion. 
+
+* [ALBA](https://github.com/okuramasafumi/alba)  
+a JSON serializer for Ruby, JRuby, and TruffleRuby.
