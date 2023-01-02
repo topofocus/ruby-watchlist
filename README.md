@@ -60,5 +60,14 @@ a JSON serializer for Ruby, JRuby, and TruffleRuby.
 Ruby Gem for smarter importing of CSV Files as Array(s) of Hashes, with optional features for processing large files in parallel, embedded comments, unusual field- and record-separators, flexible mapping of CSV-headers to Hash-keys. https://github.com/tilo/smarter_csv.   
 ---> Enhanced features in Verison-2 branch
 
+* [Eps](https://github.com/ankane/eps)  
+
+Machine learning for Ruby
+
+    Build predictive models quickly and easily  
+    Serve models built in Ruby, Python, R, and more
+    
+* [Roadie](https://github.com/Mange/roadie)  
+Roadie tries to make sending HTML emails a little less painful by inlining stylesheets and rewriting relative URLs for you inside your emails. 
 
 
