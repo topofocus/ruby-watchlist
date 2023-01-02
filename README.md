@@ -54,3 +54,11 @@ A Ruby Library for dealing with money and currency conversion.
 
 * [ALBA](https://github.com/okuramasafumi/alba)  
 a JSON serializer for Ruby, JRuby, and TruffleRuby.
+
+* [SmarterCSV](https://blog.dennisokeeffe.com/blog/2022-04-06-ruby-smartercsv-gem)
+
+Ruby Gem for smarter importing of CSV Files as Array(s) of Hashes, with optional features for processing large files in parallel, embedded comments, unusual field- and record-separators, flexible mapping of CSV-headers to Hash-keys. https://github.com/tilo/smarter_csv.   
+---> Enhanced features in Verison-2 branch
+
+
+
