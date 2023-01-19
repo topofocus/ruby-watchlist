@@ -73,3 +73,7 @@ Roadie tries to make sending HTML emails a little less painful by inlining style
 * [Polars Ruby](https://github.com/ankane/polars-ruby)
 
 fire Blazingly fast DataFrames for Ruby, powered by Polars
+
+* [Vega.rb](https://github.com/ankane/vega-ruby)
+
+Interactive charts for Ruby, powered by Vega and Vega-Lite
