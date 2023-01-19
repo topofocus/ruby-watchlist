@@ -70,4 +70,6 @@ Machine learning for Ruby
 * [Roadie](https://github.com/Mange/roadie)  
 Roadie tries to make sending HTML emails a little less painful by inlining stylesheets and rewriting relative URLs for you inside your emails. 
 
+* [Polars Ruby](https://github.com/ankane/polars-ruby)
 
+fire Blazingly fast DataFrames for Ruby, powered by Polars
